@@ -1,5 +1,5 @@
 <h1> Hi there 👋</h1>
-<h3><a href="jusetranquockhanh@gmail.com">MyGmail</a></h3>
+📫 How to reach me: jusetranquockhanh@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=khanhsept&&show_icons=true&title_color=343434&icon_color=56B133&text_color=56B133&bg_color=FFFFFF">
 
 <!--
