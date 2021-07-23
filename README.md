@@ -1,6 +1,6 @@
 <h1> Hi there 👋</h1>
 <ul>
-  <li>📫 How to reach me: jusetranquockhanh@gmail.com</li>
+  <li>📫 How to reach me: <a href="mailto:jusetranquockhanh@gmail.com">jusetranquockhanh@gmail.com</a></li>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=khanhsept&&show_icons=true&title_color=56B133&icon_color=4D72F2&text_color=343434&bg_color=FFFFFF">
 
