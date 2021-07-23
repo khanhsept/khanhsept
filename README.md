@@ -1,4 +1,5 @@
 <h1> Hi there 👋</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=khanhsept&&show_icons=true&title_color=343434&icon_color=56B133&text_color=56B133&bg_color=FFFFFF">
 
 <!--
 **khanhsept/khanhsept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
